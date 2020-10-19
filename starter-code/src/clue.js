@@ -85,10 +85,10 @@ name: Patio
 */
 
 // Characters Collection
-var charactersArray = [];
+const charactersArray = [];
 
 // Rooms' Collection
-var roomsArray = [];
+const roomsArray = [];
 
 // Weapons Collection
-var weaponsArray = [];
+const weaponsArray = [];
